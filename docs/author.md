@@ -1,6 +1,6 @@
 # About Me :bust_in_silhouette:
 
-<!-- ![Vishesh photo](assets/img/photo_vishesh_yatch_page-0001.jpg) -->
+![Vishesh photo](assets/img/photo_vishesh_yatch_page-0001.jpg)
 
 _Hello_, I am **Vishesh Garg** :wave:
 

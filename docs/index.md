@@ -1,24 +1,48 @@
-# Homepage
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Namah everyone :wave:
+(1)
+{ .annotate }
 
-## Commands
+1. _Namah_ is "Hello" in Sanskrit: language. :green_heart:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+I am **Vishesh Garg**, a Passionate data guy.
 
-## Project layout
+I will share my knowledge repository for almost 6+ years of my working experience around Data and especially Data Engineering, Problem Solving and About Interesting Data Pipelines. 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+I have Currently working as **Data Architect/Lead Data Engineer** :speech_balloon:
+## Overview
 
+!!! tip
 
-``` py title="My Code.py"
-Some Code Here
+    First, I bring up some exciting projects about data engineering, check it out here [**PROJECTS**](projects/README.md).
 
+> I assure it's easy to follow even for beginners.
 
-```
+If you want to deep dive into the topics and get basic/advance understandings, I suggest you go through the **learning** tabs, such as below:
+
+- Data Engineering
+- Data Modeling
+- Data Architecture
+- Data Orchestration
+- Data Ingestion
+- Data Processing
+- Data Quality
+- Learning Python
+- Many more
+
+Stay tune to this notes, I will keep updating it to the most recent Data Engineering updates.
+Currently I am learning :
+
+- AWS
+- Pyspark
+
+!!! quote
+
+    'Learning gives creativity, creativity leads to thinking, thinking provides knowledge, knowledge makes you great.' - Dr. A.P.J. Abdul Kalam
+
+In the same way, a robust data architecture is the foundation for organizational greatness. It enables learning by providing a single source of truth for data-driven insights. This, in turn, sparks creativity in business decision-making, as users can explore new possibilities and opportunities. The thinking that follows leads to knowledge, as the organization gains a deeper understanding of its customers, markets, and operations. And ultimately, this knowledge is what makes the organization great, as it informs strategic decisions and drives innovation and growth.
+
+    
+
+Find my profile in [About the author](author.md).
